@@ -92,3 +92,14 @@ npm start
 The server will run on:
 
 http://localhost:5000
+
+5000
+🌍 Live Deployment
+
+Backend deployed on Render
+
+🔗 Live API Base URL:
+https://hrms-lite-backend-sutb.onrender.com
+
+Example Endpoint:
+https://hrms-lite-backend-sutb.onrender.com/api/employees
